@@ -1,4 +1,3 @@
-import { EmailValidator } from '@angular/forms'
 import {test, expect} from '@playwright/test'
 
 test.beforeEach(async({page}) => {
